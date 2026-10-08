@@ -1,5 +1,4 @@
-# Level 5 Assignment - Rock Paper Scissors
-# IS 303
+
 
 import random
 
